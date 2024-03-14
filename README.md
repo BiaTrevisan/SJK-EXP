@@ -22,7 +22,7 @@ Sprint | Previsão | Status|
 |01 | 15/04/2024|a fazer |
 |02|  06/05/2024| a fazer |
 |03| 27/05/2024 | a fazer |
-|04| 17/06/2024 | a fazer |
+|04| 17/06/2024 | a faz |
 |Feira de Soluções|27/06/2027 | a fazer |
 
 
