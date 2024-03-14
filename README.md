@@ -1,6 +1,6 @@
-# Aprendizado por Projeto Integrado (API) - Template
+# Aprendizado por Projeto Integrado (API) - 2024
 
-Template para os projetos de API, ensinando na utilização do repositório digital "GitHub". 
+Projeto, para estudar possiveis cargas para o Aeroporto SJK.
 
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
 
@@ -50,7 +50,7 @@ Adicionar video e documentos nessa seção
 
 * Jira Software
 * Power BI
-* Microsoft Excel
+* Microsoft office
 * Slack
 
 
