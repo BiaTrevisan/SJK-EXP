@@ -52,6 +52,7 @@ Adicionar video e documentos nessa seção
 * Power BI
 * Microsoft office
 * Slack
+* Teste
 
 
 
