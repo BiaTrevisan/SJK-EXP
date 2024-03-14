@@ -1,4 +1,4 @@
-# Aprendizado por Projeto Integrado (API) - 2024
+# Aprendizado por Projeto Integrado (API) - 1° semestre 2024
 
 Projeto, para estudar possiveis cargas para o Aeroporto SJK.
 
