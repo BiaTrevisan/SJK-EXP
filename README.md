@@ -1,4 +1,4 @@
-# Aprendizado por Projeto Integrado (API) - 1° semestre 2024
+# Aprendizado por Projeto Integrado (API) - 2024
 
 Projeto, para estudar possiveis cargas para o Aeroporto SJK.
 
@@ -57,15 +57,15 @@ Adicionar video e documentos nessa seção
 
 # Backlog do produto
 
-## Sprint 1. Concepção
+## Sprint 1. Estruturação do Projeto
 - [ ] Defina o propósito do template;
 - [ ] Identifique os elementos principais;
-- [ ] Esboce o layout;
-- [ ] Escolha cores e fontes;
-- [ ] Desenvolva o design;
+- [ ] Criação do nome e logo da empresa do projeto;
+- [ ] Backlog do produto;
+- [ ] Estruturação do projeto no Github e Jira;
 - [ ] Teste e revise;
 - [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
+- [ ] Apresentação no Power BI;
 - [ ] Finalize e aprovação.
 
 ## Sprint 2. Desenvolvimento do Projeto
