@@ -19,10 +19,10 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 Sprint | Previsão | Status|
 |------|--------|------|
 |Kick Off | 11/03/2024 | concluido |
-|01 | 15/04/2024|a fazer |
+|01 | 15/04/2024| a fazer |
 |02|  06/05/2024| a fazer |
 |03| 27/05/2024 | a fazer |
-|04| 17/06/2024 | a faz |
+|04| 17/06/2024 | a fazer |
 |Feira de Soluções|27/06/2027 | a fazer |
 
 
@@ -30,14 +30,14 @@ Sprint | Previsão | Status|
 
 
 # Objetivo do Projeto
-Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
-* Centralizar os trabalhos e projetos;
+Este projeto tem como objetivo ajudar na facilitação de monitorar as possiveis cargas para o Aeroporto de SJC, visando:
+* Acessibilidade a informações basicas que interessam o cliente;
 * Organizar e estruturar as informações;
-* Versionar e controlar as alterações;
-* Facilitar o compartilhamento e feedback;
-* Desenvolver habilidades técnicas.
+* Controlar as alterações;
+* Facilitar feedback;
+* Desenvolver habilidades técnicas;
 
-# Funcionalidades e registros (vídeos e apresentações) das sprints
+# Funcionalidades e registros (apresentação em POWER BI) das sprints
 
 Apresentação das funcionalidades
 Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário do sistema:
@@ -58,7 +58,6 @@ Adicionar video e documentos nessa seção
 # Backlog do produto
 
 ## Sprint 1. Estruturação do Projeto
-- [ ] Defina o propósito do template;
 - [ ] Identifique os elementos principais;
 - [ ] Criação do nome e logo da empresa do projeto;
 - [ ] Backlog do produto;
@@ -69,34 +68,14 @@ Adicionar video e documentos nessa seção
 - [ ] Finalize e aprovação.
 
 ## Sprint 2. Desenvolvimento do Projeto
-- [ ] Documento passo a passo;
-- [ ] Vídeo passo a passo;
-- [ ] Treinamento com os professores;
-- [ ] Treinamento com os alunos;
-- [ ] Monitoramento e ajustes.
+- [ ] Em desenvolvimento;
       
 ## Sprint 3 . Implementação
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+- [ ] Em desenvolvimento;
+
       
 ## Sprint 4. Operacionalização
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
-
+- [ ] Em desenvolvimento;
 
 
   
