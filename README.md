@@ -45,7 +45,7 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 Adicionar video e documentos nessa seção
 
 [![Nome do Vídeo](https://img.youtube.com/vi/pBy1zgt0XPc/0.jpg)](https://www.youtube.com/embed/pBy1zgt0XPc)
-(https://github.com/BiaTrevisan/SJK-EXP/blob/main/transferir.jfi)
+[!Imagem teste](https://github.com/BiaTrevisan/SJK-EXP/blob/main/transferir.jfi)
 ## Tecnologias Utilizadas
 
 * Jira Software
