@@ -65,7 +65,11 @@ Confira a seguir o relatorio das funcionalidades para cada tipo de usuário do s
 - [ ] Como cliente quero um relatório das atividades envolvidas no projeto;
 
 ## Sprint 2. Desenvolvimento do Projeto
-- [ ] Em desenvolvimento;
+- [ ] Como cliente quero que seja demonstrado um dashboard no Power BI com a analise inicial que foi apresentada no excel;
+- [ ] Como cliente quero saber quais cargas tem origem no Vale do Paraíba;
+- [ ] Como cliente quero saber quais cargas podem ser transportadas através do Aeroporto (NCM);
+- [ ] Como cliente cliente quero saber quais cargas podem deixar de ser movimentadas pelo GRU e VC e podem ser movimentadas no SJK;
+- [ ] Como cliente desejo uma lista dos aeroportos próximos nacionais e internacionais (raio de atuação);
       
 ## Sprint 3 . Implementação
 - [ ] Em desenvolvimento;
