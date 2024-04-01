@@ -27,8 +27,6 @@ Sprint | Previsão | Status|
 
 
 
-
-
 # Objetivo do Projeto
 Este projeto tem como objetivo ajudar na facilitação de monitorar as possiveis cargas para o Aeroporto de SJC, visando:
 * Acessibilidade a informações basicas que interessam o cliente;
@@ -103,8 +101,8 @@ Confira a seguir o relatorio das funcionalidades para cada tipo de usuário do s
 
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
-| Colaboração | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
-| Proatividade| ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
+| Colaboração | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+| Proatividade| ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Pensamento Crítico | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Gerenciamento de Tempo | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Adaptabilidade | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
