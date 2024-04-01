@@ -70,14 +70,18 @@ Confira a seguir o relatorio das funcionalidades para cada tipo de usuário do s
 - [ ] Como cliente desejo uma lista dos aeroportos próximos nacionais e internacionais (raio de atuação);
       
 ## Sprint 3 . Implementação
-- [ ] Em desenvolvimento;
-
+- [ ] Como cliente quero um dashboard atualizado com as analises da Sprint 2;
+- [ ] Como cliente quero saber o tempo gasto no transporte para os principais destinos, partindo do SJK;
+- [ ] Como cliente quero um comparativo de custo entre os aeroportos SJK / GRU / VCP;
       
 ## Sprint 4. Operacionalização
-- [ ] Em desenvolvimento;
+- [ ] Como cliente desejo um dashboard com todas as informações analisadas;
+- [ ] Como cliente quero um dashboard, com o volume de cargas transportadas pelo modal aéreo;
+- [ ] Como cliente quero quero um dashboard com comparativo entre aeroportos SJK / GRU / VCP;
+- [ ] Como cliente quero uma lista de possíveis empresas de logísticas que podem operar no SJK;
+- [ ] Como cliente quero uma lista de restrições de movimentações  e os dias que o aeroporto está fechado (FAB).;
 
 
-  
 # Competências desenvolvidas
 
 ## Hard Skill (saber tecnológico)
