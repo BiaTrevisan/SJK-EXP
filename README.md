@@ -6,7 +6,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 
 # Índice
 * [Objetivo do Projeto](#objetivo-do-projeto)
-* [Funcionalidades e registros (vídeos e apresentações) das sprints](#funcionalidades-e-registros-(vídeos-e-apresentações)-das-sprints)
+* [Funcionalidades e registros das sprints](#funcionalidades-e-registros--das-sprints)
 * [Backlog do produto](#Backlog-do-produto)
 * [Competências desenvolvidas](#competências-desenvolvidas)
 * [Autores](#autores)
@@ -19,11 +19,11 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 Sprint | Previsão | Status|
 |------|--------|------|
 |Kick Off | 11/03/2024 | concluido |
-|Sprint 01 | 15/04/2024| a fazer |
-|Sprint 02|  06/05/2024| a fazer |
-|Sprint 03| 27/05/2024 | a fazer |
-|Sprint 04| 17/06/2024 | a fazer |
-|Feira de Soluções|27/06/2027 | a fazer |
+|Sprint 01 | 15/04/2024| à fazer |
+|Sprint 02|  06/05/2024| à fazer |
+|Sprint 03| 27/05/2024 | à fazer |
+|Sprint 04| 17/06/2024 | à fazer |
+|Feira de Soluções|27/06/2027 | à fazer |
 
 
 
@@ -37,35 +37,32 @@ Este projeto tem como objetivo ajudar na facilitação de monitorar as possiveis
 * Facilitar feedback;
 * Desenvolver habilidades técnicas;
 
-# Funcionalidades e registros (apresentação em POWER BI) das sprints
+# Funcionalidades e registros das sprints
 
 Apresentação das funcionalidades
-Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário do sistema:
+Confira a seguir o relatorio das funcionalidades para cada tipo de usuário do sistema:
 
-Adicionar video e documentos nessa seção
-
-[![Nome do Vídeo](https://img.youtube.com/vi/pBy1zgt0XPc/0.jpg)](https://www.youtube.com/embed/pBy1zgt0XPc)
 (https://fatecspgov-my.sharepoint.com/:w:/g/personal/gabriel_barradas_fatec_sp_gov_br/EX2xgY3noXNKkfiPv4RSVHkBp4s4gS53V7fA4YGwKA5FsA?e=CcAaBd)
+
 ## Tecnologias Utilizadas
 
 * Jira Software
 * Power BI
 * Microsoft office
-* Slack
+* GitHub
 
 
 
 # Backlog do produto
 
 ## Sprint 1. Estruturação do Projeto
-- [ ] Identifique os elementos principais;
+- [ ] Como cliente quero que seja estruturado o projeto no GitHub;
 - [ ] Criação do nome e logo da empresa do projeto;
-- [ ] Backlog do produto;
-- [ ] Estruturação do projeto no Github e Jira;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Apresentação no Power BI;
-- [ ] Finalize e aprovação.
+- [ ] Como cliente quero o projeto seja gerenciado pelo Jira Software;
+- [ ] Como cliente quero que seja realizada a atribuição das atividades da segunda sprint;
+- [ ] Como cliente quero que seja entregue uma analise preliminar no Excel;
+- [ ] Como cliente quero que seja apresentado o backlog com uma prévia de todas atividades do projeto;
+- [ ] Como cliente quero um relatório das atividades envolvidas no projeto;
 
 ## Sprint 2. Desenvolvimento do Projeto
 - [ ] Em desenvolvimento;
