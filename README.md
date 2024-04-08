@@ -55,12 +55,14 @@ Confira a seguir o relatorio das funcionalidades para cada tipo de usuário do s
 
 ## Sprint 1. Estruturação do Projeto
 - [ ] Como cliente quero que seja estruturado o projeto no GitHub;
-- [ ] Criação do nome e logo da empresa do projeto;
+- [X] Criação do nome e logo da empresa do projeto;
 - [ ] Como cliente quero o projeto seja gerenciado pelo Jira Software;
 - [ ] Como cliente quero que seja realizada a atribuição das atividades da segunda sprint;
 - [ ] Como cliente quero que seja entregue uma analise preliminar no Excel;
 - [ ] Como cliente quero que seja apresentado o backlog com uma prévia de todas atividades do projeto;
 - [ ] Como cliente quero um relatório das atividades envolvidas no projeto;
+- [ ] Como cliente quero que seja apresentado uma analise dos dados fornecidos (importados e filtrados os dados relevantes);
+- [ ] Como cliente preciso do termo de abertura do projeto.
 
 ## Sprint 2. Desenvolvimento do Projeto
 - [ ] Como cliente quero que seja demonstrado um dashboard no Power BI com a analise inicial que foi apresentada no excel;
