@@ -35,6 +35,8 @@ Este projeto tem como objetivo ajudar na facilitação de monitorar as possiveis
 * Facilitar feedback;
 * Desenvolver habilidades técnicas;
 
+# Funcionalidades e ferramentas das Sprints
+
 
 ## Tecnologias Utilizadas
 
@@ -42,9 +44,6 @@ Este projeto tem como objetivo ajudar na facilitação de monitorar as possiveis
 * Power BI
 * Microsoft office
 * GitHub
-
-
-# Funcionalidades e ferramentas das Sprints
 
 
 
