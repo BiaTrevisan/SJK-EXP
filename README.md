@@ -40,6 +40,7 @@ Este projeto tem como objetivo ajudar na facilitação de monitorar as possiveis
 Apresentação das funcionalidades
 Confira a seguir o relatorio das funcionalidades para cada tipo de usuário do sistema:
 
+[Termo de abertura do Projeto} 
 (https://fatecspgov-my.sharepoint.com/:w:/g/personal/gabriel_barradas_fatec_sp_gov_br/EX2xgY3noXNKkfiPv4RSVHkBp4s4gS53V7fA4YGwKA5FsA?e=CcAaBd)
 
 ## Tecnologias Utilizadas
