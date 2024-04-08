@@ -60,25 +60,6 @@ Este projeto tem como objetivo ajudar na facilitação de monitorar as possiveis
 - [ ] Como cliente quero que seja apresentado uma analise dos dados fornecidos (importados e filtrados os dados relevantes);
 - [ ] Como cliente preciso do termo de abertura do projeto.
 
-## Sprint 2. Desenvolvimento do Projeto
-- [ ] Como cliente quero que seja demonstrado um dashboard no Power BI com a analise inicial que foi apresentada no excel;
-- [ ] Como cliente quero saber quais cargas tem origem no Vale do Paraíba;
-- [ ] Como cliente quero saber quais cargas podem ser transportadas através do Aeroporto (NCM);
-- [ ] Como cliente cliente quero saber quais cargas podem deixar de ser movimentadas pelo GRU e VC e podem ser movimentadas no SJK;
-- [ ] Como cliente desejo uma lista dos aeroportos próximos nacionais e internacionais (raio de atuação);
-      
-## Sprint 3 . Implementação
-- [ ] Como cliente quero um dashboard atualizado com as analises da Sprint 2;
-- [ ] Como cliente quero saber o tempo gasto no transporte para os principais destinos, partindo do SJK;
-- [ ] Como cliente quero um comparativo de custo entre os aeroportos SJK / GRU / VCP;
-      
-## Sprint 4. Operacionalização
-- [ ] Como cliente desejo um dashboard com todas as informações analisadas;
-- [ ] Como cliente quero um dashboard, com o volume de cargas transportadas pelo modal aéreo;
-- [ ] Como cliente quero quero um dashboard com comparativo entre aeroportos SJK / GRU / VCP;
-- [ ] Como cliente quero uma lista de possíveis empresas de logísticas que podem operar no SJK;
-- [ ] Como cliente quero uma lista de restrições de movimentações  e os dias que o aeroporto está fechado (FAB);
-
 
 # Competências desenvolvidas
 
