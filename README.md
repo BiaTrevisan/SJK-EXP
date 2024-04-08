@@ -16,7 +16,7 @@ Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focad
 Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
 Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprints
 
-Sprint | Previsão | Status| Termos de abertura |
+Sprint | Previsão | Status| Documentos |
 |------|--------|------|--------|
 |Kick Off | 11/03/2024 | concluido |
 |Sprint 01 | 15/04/2024| à fazer |  [Termo de abertura do Projeto](https://fatecspgov-my.sharepoint.com/:w:/g/personal/gabriel_barradas_fatec_sp_gov_br/EX2xgY3noXNKkfiPv4RSVHkBp4s4gS53V7fA4YGwKA5FsA?e=CcAaBd) |
@@ -35,12 +35,6 @@ Este projeto tem como objetivo ajudar na facilitação de monitorar as possiveis
 * Facilitar feedback;
 * Desenvolver habilidades técnicas;
 
-# Funcionalidades e registros das sprints
-
-Apresentação das funcionalidades
-Confira a seguir o relatorio das funcionalidades para cada tipo de usuário do sistema:
-
-[Termo de abertura do Projeto](https://fatecspgov-my.sharepoint.com/:w:/g/personal/gabriel_barradas_fatec_sp_gov_br/EX2xgY3noXNKkfiPv4RSVHkBp4s4gS53V7fA4YGwKA5FsA?e=CcAaBd)
 
 ## Tecnologias Utilizadas
 
