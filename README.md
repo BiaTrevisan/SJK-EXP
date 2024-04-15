@@ -11,11 +11,15 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Competências desenvolvidas](#competências-desenvolvidas)
 * [Autores](#autores)
 
-# Projeto (API) 
+# Projeto (FATEC API) 
 Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
-Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
-Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprints
 
+Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
+
+# Escopo inicial do projeto
+Desenvolver dashboard no Power bi, utilizando os dados do Comex Stat (http://comexstat.mdic.gov.br/pt/home) extraído e fornecido pelo cliente. Através da visualização dos dados organizados no dashboard, deve ser possível levantar oportunidades para aumentar o volume de cargas no aeroporto SJK.   
+
+# Cronograma
 Sprint | Previsão | Status| Documentos |
 |------|--------|------|--------|
 |Kick Off | 11/03/2024 | concluido |[Termo de abertura do Projeto](https://fatecspgov-my.sharepoint.com/:w:/g/personal/gabriel_barradas_fatec_sp_gov_br/EX2xgY3noXNKkfiPv4RSVHkBp4s4gS53V7fA4YGwKA5FsA?e=CcAaBd) |
@@ -28,13 +32,10 @@ Sprint | Previsão | Status| Documentos |
 
 
 # Objetivo do Projeto
-Este projeto tem como objetivo ajudar na facilitação de monitorar as possiveis cargas para o Aeroporto de SJC, visando:
-* Acessibilidade a informações basicas que interessam o cliente;
-* Organizar e estruturar as informações;
-* Controlar as alterações;
-* Facilitar feedback;
-* Desenvolver habilidades técnicas;
-
+Desenvolver um dashboard utilizando o Power BI, com os seguintes objetivos:  
+- Apoiar ações de captação de clientes com cargas, para serem transportados pelo aeroporto de São José dos Campos.   
+- Demonstrar para empresas aéreas que existe uma demanda não explorada no aeroporto analisado.
+  
 # Funcionalidades e ferramentas das Sprints
 
 
