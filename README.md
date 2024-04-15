@@ -19,7 +19,7 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 Sprint | Previsão | Status| Documentos |
 |------|--------|------|--------|
 |Kick Off | 11/03/2024 | concluido |[Termo de abertura do Projeto](https://fatecspgov-my.sharepoint.com/:w:/g/personal/gabriel_barradas_fatec_sp_gov_br/EX2xgY3noXNKkfiPv4RSVHkBp4s4gS53V7fA4YGwKA5FsA?e=CcAaBd) |
-|Sprint 01 | 15/04/2024| à fazer |  
+|Sprint 01 | 15/04/2024| à fazer | [Relatorio do Projeto](anexo_8_modelo_relatorio_projeto_integrador_log) |  
 |Sprint 02|  06/05/2024| à fazer |
 |Sprint 03| 27/05/2024 | à fazer |
 |Sprint 04| 17/06/2024 | à fazer |
@@ -49,15 +49,15 @@ Este projeto tem como objetivo ajudar na facilitação de monitorar as possiveis
 # Backlog do produto
 
 ## Sprint 1. Estruturação do Projeto
-- [ ] Como cliente quero que seja estruturado o projeto no GitHub;
+- [X] Como cliente quero que seja estruturado o projeto no GitHub;
 - [X] Criação do nome e logo da empresa do projeto;
-- [ ] Como cliente quero o projeto seja gerenciado pelo Jira Software;
-- [ ] Como cliente quero que seja realizada a atribuição das atividades da segunda sprint;
-- [ ] Como cliente quero que seja entregue uma analise preliminar no Excel;
-- [ ] Como cliente quero que seja apresentado o backlog com uma prévia de todas atividades do projeto;
-- [ ] Como cliente quero um relatório das atividades envolvidas no projeto;
-- [ ] Como cliente quero que seja apresentado uma analise dos dados fornecidos (importados e filtrados os dados relevantes);
-- [ ] Como cliente preciso do termo de abertura do projeto.
+- [X] Como cliente quero o projeto seja gerenciado pelo Jira Software;
+- [X] Como cliente quero que seja realizada a atribuição das atividades da segunda sprint;
+- [X] Como cliente quero que seja entregue uma analise preliminar no Excel;
+- [X] Como cliente quero que seja apresentado o backlog com uma prévia de todas atividades do projeto;
+- [X] Como cliente quero um relatório das atividades envolvidas no projeto;
+- [X] Como cliente quero que seja apresentado uma analise dos dados fornecidos (importados e filtrados os dados relevantes);
+- [X] Como cliente preciso do termo de abertura do projeto.
 
 
 </details>
