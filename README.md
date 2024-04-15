@@ -19,7 +19,7 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 Sprint | Previsão | Status| Documentos |
 |------|--------|------|--------|
 |Kick Off | 11/03/2024 | concluido |[Termo de abertura do Projeto](https://fatecspgov-my.sharepoint.com/:w:/g/personal/gabriel_barradas_fatec_sp_gov_br/EX2xgY3noXNKkfiPv4RSVHkBp4s4gS53V7fA4YGwKA5FsA?e=CcAaBd) |
-|Sprint 01 | 15/04/2024| à fazer |  
+|Sprint 01 | 15/04/2024| à fazer |  [Relatorio do Projeto](anexo_8_modelo_relatorio_projeto_integrador_log) |
 |Sprint 02|  06/05/2024| à fazer |
 |Sprint 03| 27/05/2024 | à fazer |
 |Sprint 04| 17/06/2024 | à fazer |
