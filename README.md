@@ -49,35 +49,30 @@ Este projeto tem como objetivo ajudar na facilitação de monitorar as possiveis
 
 # Backlog do produto
 
-## Sprint 1. Estruturação do Projeto
-- [X] Como cliente quero que seja estruturado o projeto no GitHub;
-- [X] Criação do nome e logo da empresa do projeto;
-- [X] Como cliente quero o projeto seja gerenciado pelo Jira Software;
-- [X] Como cliente quero que seja realizada a atribuição das atividades da segunda sprint;
-- [X] Como cliente quero que seja entregue uma analise preliminar no Excel;
-- [X] Como cliente quero que seja apresentado o backlog com uma prévia de todas atividades do projeto;
-- [X] Como cliente quero um relatório das atividades envolvidas no projeto;
-- [X] Como cliente quero que seja apresentado uma analise dos dados fornecidos (importados e filtrados os dados relevantes);
-- [X] Como cliente preciso do termo de abertura do projeto.
+## Sprint 1. Concepção
+- [x] Como cliente quero o Backlog do produto e do projeto com uma prévia de todas as atividades.
+- [x] Como cliente quero visualizar a estruturação do Projeto (Github, Jira Software, Slack).
+- [x] Como cliente quero visualizar uma prévia dos dados filtrado que serão utilizados nas as próximas sprints. 
+- [x] Como cliente quero conhecer todos os integrantes da equipe (nome, contato, foto, função no projeto).
 
 ## Sprint 2. Desenvolvimento do Projeto
-- [ ] Como cliente quero que seja demonstrado um dashboard no Power BI com a analise inicial que foi apresentada no excel;
-- [ ] Como cliente quero saber quais cargas tem origem no Vale do Paraíba;
-- [ ] Como cliente quero saber quais cargas podem ser transportadas através do Aeroporto (NCM);
-- [ ] Como cliente cliente quero saber quais cargas podem deixar de ser movimentadas pelo GRU e VC e podem ser movimentadas no SJK;
-- [ ] Como cliente desejo uma lista dos aeroportos próximos nacionais e internacionais (raio de atuação);
-      
+- [ ] Como cliente quero um Dashboard em Power Bi com uma analise prévia.
+- [ ] Como cliente quero saber quais cargas tem origem no Vale do Paraíba (volume / valor / Curva ABC das cargas)
+- [ ] Como cliente quero quais são os aeroportos próximos ao SJK e quais cargas podem passar a ser transportadas pelo SJK.
+
 ## Sprint 3 . Implementação
-- [ ] Como cliente quero um dashboard atualizado com as analises da Sprint 2;
-- [ ] Como cliente quero saber o tempo gasto no transporte para os principais destinos, partindo do SJK;
-- [ ] Como cliente quero um comparativo de custo entre os aeroportos SJK / GRU / VCP;
-      
+- [ ] Como cliente quero um Dashboard no Power Bi com as informações da Sprint 2
+- [ ] Como cliente quero uma analise dos principais destinos das exportações do Vale do Paraíba (distância / volume de cargas)
+- [ ] Como cliente quero um comparativo dos custos entre o SJK / GRU / VC (utilizando os principais destinos - em Excel)
+- [ ] Como cliente quero verificar uma  prévia da documentação/relatório do projeto
+
 ## Sprint 4. Operacionalização
-- [ ] Como cliente desejo um dashboard com todas as informações analisadas;
-- [ ] Como cliente quero um dashboard, com o volume de cargas transportadas pelo modal aéreo;
-- [ ] Como cliente quero quero um dashboard com comparativo entre aeroportos SJK / GRU / VCP;
-- [ ] Como cliente quero uma lista de possíveis empresas de logísticas que podem operar no SJK;
-- [ ] Como cliente quero uma lista de restrições de movimentações  e os dias que o aeroporto está fechado (FAB);
+- [ ] Como cliente desejo um Dashboard com todas informações analisadas, sendo possível visualizar como aumentar o volume de cargas movimentadas no SJK.
+- [ ] Como cliente quero ter acesso a documentação completa do projeto
+- [ ] Como cliente quero uma listagem das empresas logísticas que operam nos principais destinos, quais operam no Brasil e podem operar no SJK
+- [ ] Como cliente quero uma lista de restrições de cargas que não podem ser transportados pelo SJK (Exemplo: Material bélico), e quais dias o aeroporto é fechado pela FAB.
+- [ ] Como cliente quero uma listagem de possíveis rotas fixas, saindo do SJK para os principais destinos.
+
 
 
 # Competências desenvolvidas
@@ -88,12 +83,11 @@ Este projeto tem como objetivo ajudar na facilitação de monitorar as possiveis
   
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
-| GitHub | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Gestão de Projetos | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-| Scrum Master | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Prodct Owner | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Markdown | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Git Projects | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| GitHub | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+| Gestão de Projetos | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Scrum Master | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+| Prodct Owner | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+| Markdown | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
  
 </details>
 
@@ -104,11 +98,11 @@ Este projeto tem como objetivo ajudar na facilitação de monitorar as possiveis
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
 | Colaboração | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
-| Proatividade| ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Pensamento Crítico | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Gerenciamento de Tempo | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Adaptabilidade | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Resiliência | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Proatividade| ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+| Pensamento Crítico | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Gerenciamento de Tempo | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Adaptabilidade | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+| Resiliência | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
 
 </details>
 
