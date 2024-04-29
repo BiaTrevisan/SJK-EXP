@@ -49,6 +49,10 @@ Este projeto tem como objetivo ajudar na facilitação de monitorar as possiveis
 # Backlog do produto
 
 ## Sprint 1. Estruturação do Projeto
+- [x] Backlog do produto e do projeto com uma prévia de todas as atividades.
+- [x] Visualização da estruturação do Projeto (Github, Jira Software, Slack).
+- [x] Visualização de uma prévia dos dados filtrado que serão utilizados nas as próximas sprints. 
+- [x] Conhecer todos os integrantes da equipe (nome, contato, foto, função no projeto).
 
 
 </details>
