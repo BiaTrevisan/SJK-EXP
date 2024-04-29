@@ -51,9 +51,9 @@ Desenvolver um dashboard utilizando o Power BI, com os seguintes objetivos:
 # Backlog do produto
 
 ## Sprint 2. Desenvolvimento do Projeto
-- [ ] Como cliente quero um Dashboard em Power Bi com uma analise prévia.
-- [ ] Como cliente quero saber quais cargas tem origem no Vale do Paraíba (volume / valor / Curva ABC das cargas)
-- [ ] Como cliente quero quais são os aeroportos próximos ao SJK e quais cargas podem passar a ser transportadas pelo SJK.
+- [ ] Dashboard em Power Bi com uma analise prévia.
+- [ ] Quais cargas tem origem no Vale do Paraíba (volume / valor / Curva ABC das cargas).
+- [ ] Definir quais informações podem ser utilizadas para ser gerado um gráfico (Exemplo: valor FOB, Peso, volume).
 
 
 
