@@ -58,8 +58,8 @@ Desenvolver um dashboard utilizando o Power BI, com os seguintes objetivos:
 
 ## Sprint 2. Desenvolvimento do Projeto
 - [ ] Dashboard em Power Bi com uma analise prévia.
-- [ ] Quais cargas tem origem no Vale do Paraíba (volume / valor / Curva ABC das cargas)
-- [ ] Definir quais informações podem ser utilizadas para ser gerado um gráfico (Exemplo: valor FOB, Peso, volume)
+- [ ] Quais cargas tem origem no Vale do Paraíba (volume / valor / Curva ABC das cargas).
+- [ ] Definir quais informações podem ser utilizadas para ser gerado um gráfico (Exemplo: valor FOB, Peso, volume).
 
 ## Sprint 3 . Implementação
 - [ ] Dashboard no Power Bi com as informações da Sprint 2
