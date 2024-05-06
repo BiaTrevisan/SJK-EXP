@@ -61,7 +61,7 @@ Desenvolver um dashboard utilizando o Power BI, com os seguintes objetivos:
 - [X] Quais cargas tem origem no Vale do Paraíba (volume / valor / Curva ABC das cargas).
 - [X] Definir quais informações podem ser utilizadas para ser gerado um gráfico (Exemplo: valor FOB, Peso, volume).
 
-(![image](https://github.com/BiaTrevisan/SJK-EXP/assets/163362315/cd6c7f0f-171b-4072-a7a3-0b1fda901b5e)
+![image](https://github.com/BiaTrevisan/SJK-EXP/assets/163362315/4112f749-37f0-4cb7-b3d8-7423e3697a3e)
 
 
 ## Sprint 3 . Implementação
