@@ -17,7 +17,7 @@ Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focad
 Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
 
 # Escopo inicial do projeto
-Desenvolver dashboard no Power bi, utilizando os dados do Comex Stat (http://comexstat.mdic.gov.br/pt/home) extraído e fornecido pelo cliente. Através da visualização dos dados organizados no dashboard, deve ser possível levantar oportunidades para aumentar o volume de cargas no aeroporto SJK.   
+Desenvolver dashboard no Power bi, utilizando os dados do Comex Stat [LINK](http://comexstat.mdic.gov.br/pt/home) extraído e fornecido pelo cliente. Através da visualização dos dados organizados no dashboard, deve ser possível levantar oportunidades para aumentar o volume de cargas no aeroporto SJK.   
 
 # Cronograma
 Sprint | Previsão | Status| Documentos |
