@@ -50,33 +50,11 @@ Desenvolver um dashboard utilizando o Power BI, com os seguintes objetivos:
 
 # Backlog do produto
 
-## Sprint 1. Concepção
-- [x] Backlog do produto e do projeto com uma prévia de todas as atividades.
-- [x] Visualização da estruturação do Projeto (Github, Jira Software, Slack).
-- [x] Visualização de uma prévia dos dados filtrado que serão utilizados nas as próximas sprints. 
-- [x] Conhecer todos os integrantes da equipe (nome, contato, foto, função no projeto).
-
-## Sprint 2. Desenvolvimento do Projeto
-- [X] Dashboard em Power Bi com uma analise prévia.
-- [X] Quais cargas tem origem no Vale do Paraíba (volume / valor / Curva ABC das cargas).
-- [X] Definir quais informações podem ser utilizadas para ser gerado um gráfico (Exemplo: valor FOB, Peso, volume).
-
-![image](https://github.com/BiaTrevisan/SJK-EXP/assets/163362315/4112f749-37f0-4cb7-b3d8-7423e3697a3e)
-
-
 ## Sprint 3 . Implementação
 - [ ] Dashboard no Power Bi com as informações da Sprint 2
 - [ ] Analise dos principais destinos das exportações do Vale do Paraíba (distância / volume de cargas)
 - [ ] Comparativo dos custos entre o SJK / GRU / VC (utilizando os principais destinos - em Excel)
 - [ ] Uma  prévia da documentação/relatório do projeto
-
-## Sprint 4. Operacionalização
-- [ ] Dashboard com todas informações analisadas, sendo possível visualizar como aumentar o volume de cargas movimentadas no SJK.
-- [ ] Acesso a documentação completa do projeto
-- [ ] Listagem das empresas logísticas que operam nos principais destinos, quais operam no Brasil e podem operar no SJK
-- [ ] Lista de restrições de cargas que não podem ser transportados pelo SJK (Exemplo: Material bélico), e quais dias o aeroporto é fechado pela FAB.
-- [ ] Listagem de possíveis rotas fixas, saindo do SJK para os principais destinos.
-
 
 
 # Competências desenvolvidas
