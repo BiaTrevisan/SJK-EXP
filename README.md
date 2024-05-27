@@ -65,10 +65,13 @@ Desenvolver um dashboard utilizando o Power BI, com os seguintes objetivos:
 
 
 ## Sprint 3 . Implementação
-- [ ] Dashboard no Power Bi com as informações da Sprint 2
-- [ ] Analise dos principais destinos das exportações do Vale do Paraíba (distância / volume de cargas)
-- [ ] Comparativo dos custos entre o SJK / GRU / VC (utilizando os principais destinos - em Excel)
-- [ ] Uma  prévia da documentação/relatório do projeto
+- [X] Dashboard no Power Bi com as informações da Sprint 2
+- [X] Analise dos principais destinos das exportações do Vale do Paraíba (distância / volume de cargas)
+- [X] Comparativo dos custos entre o SJK / GRU / VC (utilizando os principais destinos - em Excel)
+- [X] Uma  prévia da documentação/relatório do projeto
+
+![Capturar - 3](https://github.com/BiaTrevisan/SJK-EXP/assets/163362315/9a7b3856-8341-4f4c-998a-f25321f11806)
+
 
 ## Sprint 4. Operacionalização
 - [ ] Dashboard com todas informações analisadas, sendo possível visualizar como aumentar o volume de cargas movimentadas no SJK.
