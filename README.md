@@ -53,9 +53,6 @@ Desenvolver um dashboard utilizando o Power BI, com os seguintes objetivos:
 ## Sprint 4. Operacionalização
 - [X] Dashboard com todas informações analisadas, sendo possível visualizar como aumentar o volume de cargas movimentadas no SJK.
 - [X] Acesso a documentação completa do projeto
-- [ ] Listagem das empresas logísticas que operam nos principais destinos, quais operam no Brasil e podem operar no SJK
-- [X] Lista de restrições de cargas que não podem ser transportados pelo SJK (Exemplo: Material bélico), e quais dias o aeroporto é fechado pela FAB.
-- [ ] Listagem de possíveis rotas fixas, saindo do SJK para os principais destinos.
 
 ![CAPT - 4](https://github.com/BiaTrevisan/SJK-EXP/assets/163362315/991a39a5-6556-4991-bd18-3ac3d369b680)
 
